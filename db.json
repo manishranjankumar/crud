@@ -1,0 +1,19 @@
+{
+  "employee": [
+    {
+      "id": "b0c3",
+      "name": "Manish Kumar",
+      "email": "manishranjankumar17@gmail.com",
+      "age": "26",
+      "phone": "09015711730"
+    },
+    {
+      "id": "34e9",
+      "name": "Rishu",
+      "email": "ranjankumar17@gmail.com",
+      "age": "22",
+      "phone": "0901"
+    }
+  ],
+  "products": []
+}
